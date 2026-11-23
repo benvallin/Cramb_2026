@@ -43,7 +43,8 @@ pak::pak("benvallin/rnaseqtools")
 - R package `paramstream` available from [GitHub](https://github.com/benvallin/paramstream) with:
 
 ```r
-remotes::install_github("benvallin/paramstream")
+pak::pak("benvallin/paramstream")
+```
 
 
 ---
