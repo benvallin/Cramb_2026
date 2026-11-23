@@ -1,0 +1,7 @@
+# Data to omit
+data/
+
+# Scripts to omit
+scripts/prep_scripts/
+scripts/
+utils/
