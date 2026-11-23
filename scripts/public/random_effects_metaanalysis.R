@@ -28,7 +28,7 @@
 work_dir_path <- "/scratch/ben/rnaseq"
 
 # Path to output directory
-out_dir_path <- "publications/Cramb_2026/data/random_effects_metaanalysis"
+out_dir_path <- "publications/Cramb_2026/data/public/random_effects_metaanalysis"
 
 # Path to directory containing Kamath DGE results
 dge_kamath_dir_path <- "data/public/Kamath_2022_pmid_35513515/dge_pseudobulk_deseq2"
