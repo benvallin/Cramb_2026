@@ -1,4 +1,4 @@
-# ***Dopamine release from Parkinson’s patient-derived neurons is disrupted due to impaired synaptic vesicle loading***
+# ***Dopamine, but not glutamate, release is disrupted in Parkinson’s patient-derived dopaminergic neurons due to impaired synaptic vesicle loading***
 
 **This repository contains the scripts and metadata necessary to replicate the transcriptomics analyses included in the manuscript.**
 

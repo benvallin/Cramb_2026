@@ -3,4 +3,8 @@ data/
 
 # Scripts to omit
 scripts/prep_scripts/
+scripts/public/Kamath_2022_pmid_35513515
+scripts/public/Smajic_2021_pmid_34919646
+scripts/public/Fushiki_2026
+scripts/public/Yaghmaeian_Salmani_2024_pmid_38587883
 utils/
